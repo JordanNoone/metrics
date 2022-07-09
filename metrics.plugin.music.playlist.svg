@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="142" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQFAwECBgf/xAAvEAACAQMDAgMHBAMAAAAAAAABAgMABBEFEiExQRMicQYyUWGBkaEUFTRDscHw/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAnEQACAQIFAwQDAAAAAAAAAAABAgMAEQQFEjFBITJhIpGh8EJxgf/aAAwDAQACEQMRAD8A+m62YksLGO22eFgvxgMT0ycc/ekv4cKsuP1MgPf3VP8AuqF4sY0bT5ZOVRDtTPVjio+XuZ/MQWfqcdqDKDs/Eb+aTNcMGHe1rePvFO6XpLX0bSM5SJTt46sar3FjpqR7LneGH9jFsj69Mc9Ky0uVLa2idmAtwCAc8DzHJP45rS9vHku41ht3miRsSEAeU/5+1AzTlmuKrcFl0cMIjIvffzUTVbc2MxtlOY8BwxHLetFOe0TgtaRyY3IrHA4yOAKKMw2IvHtSHMcrvNfWqjgGuutMradpxQALtO0Y7cDn/ulTXPgxhVx4je8fl8K5G1IlfaN3bil2bJJY8mt7DbgfNBHUWuO99vA+/FN2VxHCkiXOTbvgEAZw2eCBVlb6KW0kjshGWhIdvKQuB0P1wOK8/BG9xMsccckncrH1x69vhmnNJnjtNbvLCa2Z5GjTKr5ueu3k4xg5pTjtIJPNVOUiVotI6qvJ3P68Upe3T3l080jh8gBcDbhcZxg/MmisNX3/ALjOIohCJZSAF7KFXDY7ZFFMcHIGhXStJsyy5WxDNPKFvsDfatZWyi89KwQlzlRkk4UdMmiitZPSLDgUHg2MoaR92ZR/De9vavS+ztxFb6cqEHxJJGOcZ3H4+nYelRpoxompnVL+czG6Y7tiHCIeVOOoOQPyBRRUuzFnN+a6BhkCsI16A9KTkukv7qe5iO6J5G25446D8AfeiiiqfCKEhUCuc52xbGyX4Nvav//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Cruel Angel's Thesis</div>
+                                    <div class="artist">Yoko Takahashi</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFAwIGB//EACgQAAIBAwMEAQUBAQAAAAAAAAECAwAEEQUSIRMxQVEiBmFxgZGh0f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAaEQEBAQEAAwAAAAAAAAAAAAAAARECAyJR/9oADAMBAAIRAxEAPwD4TG8SsGCOJBzvRuAfeD/2nL0rdW8V1HIrSAmOQMMHcckH8EZ8+KQTMp+Wf5mqOj3a2N0u5Fe3bHUHsAgg88ZBGe1Y1pGFrIyTIxWNlU5GcOM/cHP+16H6i0oW8em6iJYpZby3eVoreML0wBgZAwPNS9aWKLWrhhbmFW2sIy4Y4IHJIAHPfsKZENs9oLq7ui0OVh6ePljIJA+2PNTfpudKmuLMCSOWWFTnarRkD0TjPrjNFZaxe6bKLY6fZ9F1TbIHJZcg8bcntjxgfuijNDXSoNMaxC6jqFzBdKxzF0lZceMMTS17DZLdSpBfK8KnCSG3wXHvit/qKSxcxLZWojCrhjk5zUi2Rp2KoD8eWPhRVc3ZqW11ukd36hmBAHUK7c4H3/lcoGUShCWDAUxFC811DFbgtltu1j3/AF2rmUtAdhjYBcKc8cjzRpkZxnjIzRVOTTZZ0M0Mbdt3TI5x7HuiidQKWs2TbiPln0RUuCGUZVVKqnGcdzRRWXjvqFt9Ftl1m0hjl3o6/PnvgHsfzTmp6Xl0tsBI0UHJ9c+T+KKKVtUShN1p1u0VwhMe7Cv/AJj+UUUVWE//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">filament</div>
+                                    <div class="artist">妖精帝國</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
